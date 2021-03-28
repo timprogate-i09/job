@@ -54,6 +54,10 @@ header{
 
 .header-center h1{
     margin-left: 480px;
+    /*ganti warna putih 09**/
+    color: white;
+    
+    
 }
 
 .header-right{
