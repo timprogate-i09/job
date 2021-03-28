@@ -85,7 +85,10 @@ header{
 .top-wripper h2{
     font-size: 46px;
 }
-
+.gerak {
+  background-color: #cacaca;
+  color:white;
+}
 
 
 /* footer */
