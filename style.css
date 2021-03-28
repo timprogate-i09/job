@@ -90,6 +90,13 @@ header{
   color:white;
 }
 
+.lessons .lesson-icon .image-circle:hover{
+  box-shadow: none;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  transform: scale(1.2);
+}
 
 /* footer */
 /* footer */
