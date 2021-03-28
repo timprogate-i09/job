@@ -68,7 +68,8 @@ header{
 }
 
 .header-right p{
-    background-color: blue;
+    /*background-color: blue;*/
+    background-color: rgba(255, 255, 255, 0.3);
     padding: 8px 20px;
     border-radius: 10px;
 }
