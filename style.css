@@ -32,7 +32,7 @@ body{
 header{
     height: 94px;
     width: 100%;
-    background-color: rgba(34, 49, 52, 0.9);
+    background-color: rgba(34, 49, 52, 0.3);
     /*background-color: rgba(144, 236, 69, 0.5);*/
     position: fixed;
     z-index: 10;
