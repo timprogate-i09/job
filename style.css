@@ -86,7 +86,35 @@ header{
     font-size: 46px;
 }
 
+/* footer */
+footer{
+  padding-top: 20px;
+}
 
+.garis-batas{
+  border-top: 1px solid #eee;
+}
+
+.bagian-kiri{
+  float: left;
+}
+
+.bagian-kiri img{
+  width: 125px;
+}
+
+.bagian-kiri p{
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+.bagian-kanan{
+  float: right;
+}
+
+.bagian-kanan img{
+  width: 150px;
+}
 
 
 
